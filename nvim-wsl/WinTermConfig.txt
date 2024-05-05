@@ -1,0 +1,15 @@
+{
+                "font": 
+                {
+                    "size": 14
+                },
+                "guid": "{51855cb2-8cce-5362-8f54-464b92b32386}",
+                "hidden": false,
+                "name": "Ubuntu",
+                "source": "CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc",
+		"padding" : "0, 0, -10, -10",
+		"scrollbarState": "hidden"
+},
+
+Remember that when you install WSL ubuntu it will create 2 ubuntu configs. Paste this in the top one.
+The font is jetbrains mono NerdFont. (depending on the font and font size the padding could change).
